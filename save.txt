@@ -1,0 +1,2 @@
+Lawrie;1;2;75;45;5;10
+FOGUEIRA;
